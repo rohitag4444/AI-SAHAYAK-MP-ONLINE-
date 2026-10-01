@@ -1,0 +1,7 @@
+{
+  "name": "AI Sahayak - MP Online Public Service Guide",
+  "description": "AI-powered citizen-centric assistance platform for MP Online public services, schemes, scholarships, utilities, and application tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
